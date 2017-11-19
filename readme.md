@@ -9,3 +9,8 @@ The main objective of this challenge will be to check the ability of a person to
 ## LangChallenge is part of CSIS'18
 
 The Computer Society India Symposium (CSIS) is a flagship event of the IEEE Computer Society India SAC and is held annually with the venue being rotated among the various sections of India. The main scope of this symposium is to bring professionals, speakers, experts, and other academicians so that the participants can interact with and in the process learn. The symposium is generally a 3-day event and includes talks, workshops, and events on a wide array of domains such as technical, industrial, management, social development and much more. 
+
+
+
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">

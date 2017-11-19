@@ -1,4 +1,4 @@
-#LangChallenge
+#  LangChallenge
 
 LangChallenge is an enthralling initiative to foster more interest and to add some thrill to the coding experience among the coding enthusiasts and the amateur coders. It is a 2-day event. Both team participation and individual participation are allowed for this challenge. A team must have 2-3 members. 
 
